@@ -1,10 +1,10 @@
-Coffee-Sales-Dashboard 
+# Coffee-Sales-Dashboard 
 
 
  ![coffee new image](https://github.com/user-attachments/assets/dc822d6a-1fea-4a16-a4d2-a79a4b52ce8f)
 
 
-Overview :
+## Overview :
 
 This project is an analysis of coffee shop sales using Excel . This analysis includes a dashboard with the total sales over time, sales by region, customer preferences, and it is possible to  filter by products type , profit making products. There are also some relevant insights  regarding the sales . 
 
@@ -12,7 +12,7 @@ This project is an analysis of coffee shop sales using Excel . This analysis inc
 
 
 
-Tool Used :
+### Tool Used :
 
 Microsoft Excel 
 
